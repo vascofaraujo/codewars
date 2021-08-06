@@ -27,9 +27,9 @@ def josephus_survivor(n,k):
     else:
         return n
 
-print(josephus_survivor(14, 2))
+#print(josephus_survivor(14, 2))
 
-# print(josephus_survivor(4607,2798))#4265
+print(josephus_survivor(4607,2798))#4265
 # print( josephus_survivor(4777,1971))
 # print( josephus_survivor(4777,1971))
 # print( josephus_survivor(4777,1971))
